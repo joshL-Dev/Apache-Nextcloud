@@ -74,4 +74,6 @@ systemctl restart apache2
 
 #Post-Install:
 #
-#Once complete head over to the IP Address and r
+#Once complete head over to the IP Address and recall the database info you used above to fill out the stuff on the creation page.
+#
+#
